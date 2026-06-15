@@ -68,7 +68,7 @@ The project supports:
 ## 🚀 Installation
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/karim2762/Bgmi-DDOS.git
 cd Bgmi-DDOS
 
 chmod +x install.sh
